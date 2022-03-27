@@ -1,0 +1,22 @@
+body{
+    background-color: #dddddd; 
+  }
+
+ 
+  img {
+    max-width: 100%;
+    display: block;
+    }
+
+    a.navbar-brand{
+
+        margin-left: 15px;
+        padding: 8px;
+        background-color: #696868; 
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 25px;
+        font-weight: bold;
+        color: white !important;
+    
+      }
+ 
